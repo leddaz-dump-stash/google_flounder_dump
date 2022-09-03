@@ -1,0 +1,14 @@
+# volantis-user 7.1.1 N9F27M 4333998 release-keys
+- manufacturer: htc
+- platform: tegra132
+- codename: flounder
+- flavor: volantis-user
+- release: 7.1.1
+- id: N9F27M
+- incremental: 4333998
+- tags: release-keys
+- fingerprint: google/volantis/flounder:7.1.1/N9F27M/4333998:user/release-keys
+- is_ab: false
+- brand: google
+- branch: volantis-user-7.1.1-N9F27M-4333998-release-keys
+- repo: google_flounder_dump
